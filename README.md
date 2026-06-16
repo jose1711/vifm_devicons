@@ -1,7 +1,7 @@
 # File and directory icons for Vifm (vi file manager)
 
 
-![image](https://raw.githubusercontent.com/cirala/vifm_devicons/master/screenshot.png)
+[![vifm devicons demo](https://asciinema.org/a/5IEnTS4xDetkQUhF.png)](https://asciinema.org/a/5IEnTS4xDetkQUhF)
 
 
 ## Prerequisites
